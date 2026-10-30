@@ -1,88 +1,23 @@
 [
   {
-    "path": "submission/공식문항별_붙여넣기.md",
-    "bytes": 15469,
-    "sha256": "90c3cd7ed22909160c97961e63a3bd78d4bb05d151cf9af212871113dd9fa876"
+    "path": ".gitignore",
+    "bytes": 16,
+    "sha256": "8edff2f93c9fde1649d20483cb6f86e7a8a355c330f0140ea92d5e1e8f01dec0"
   },
   {
-    "path": "submission/반출나침반_기획서_최종.docx",
-    "bytes": 15630,
-    "sha256": "cb3115a8adfeae70409bd0d695eba1d770ea1cca6889371c7d5862056ad2e283"
+    "path": "QA_REPORT.md",
+    "bytes": 5767,
+    "sha256": "d21dd007c8ce6924d1e7c5d9ac25bd72754694a6803ef69f7dfd2c3a8283e2bf"
   },
   {
-    "path": "submission/반출나침반_기획서_최종.pdf",
-    "bytes": 304363,
-    "sha256": "30052f7ddaa68f1e25457c2d5f2f88a3fc789dd027dca1898670b3add2f9f561"
+    "path": "README.md",
+    "bytes": 1076,
+    "sha256": "1f581488e1992575fb23967be973ce2b8ee1cdc43df1e5216fe07782eb306f04"
   },
   {
-    "path": "submission/이재호_해운항만물류_AX공모전_서명전.docx",
-    "bytes": 22797,
-    "sha256": "907f50a101d605826c42256089625f0cebe57d41360d67b45ada2f93f5bef348"
-  },
-  {
-    "path": "submission/이재호_해운항만물류_AX공모전_서명전.pdf",
-    "bytes": 579932,
-    "sha256": "da1027b627bc336c7ea5c9163165e32df3170d046aca91b1a54a23469f8082ec"
-  },
-  {
-    "path": "supplement/PoC_검증증빙.pdf",
-    "bytes": 400266,
-    "sha256": "8818f7c8c5858420622879eaa676f820fde4291e0624f69cf1ea5497da1cc57a"
-  },
-  {
-    "path": "supplement/test_demo.cjs",
-    "bytes": 8582,
-    "sha256": "657a6e2904ea6db23499dbcf8e927b9258815e931bc5c0384850445c8d33c62a"
-  },
-  {
-    "path": "supplement/test_results.json",
-    "bytes": 2490,
-    "sha256": "435d51340df84d1438273dbed536364269afb56432eb4ee926cf730751258ae0"
-  },
-  {
-    "path": "supplement/반출나침반_시연.html",
-    "bytes": 24718,
-    "sha256": "e1a5a52a6fbea4d941c146d05f8263fb09e7852e738f621e32a923bb0b85a7a1"
-  },
-  {
-    "path": "supplement/시연_01_기본.png",
-    "bytes": 300673,
-    "sha256": "6539a2710a3e5924c365dd0443daa12b8e7e7c2daff67b7ee0d876f4f2fac728"
-  },
-  {
-    "path": "supplement/시연_02_승인.png",
-    "bytes": 306902,
-    "sha256": "e0eafc75c35fd3ac99fd34e802a5a491cfc0d31b62ea660bb68ad3745c241117"
-  },
-  {
-    "path": "supplement/시연_03_지연.png",
-    "bytes": 315875,
-    "sha256": "cb6712b8977a477b58341cfcc8091aff6134b810944b39647af38e8105c1d84e"
-  },
-  {
-    "path": "supplement/시연_04_대시보드.png",
-    "bytes": 248712,
-    "sha256": "0bcbfa35d9d79e9d0c506baeba2a93591ef7afdf1306406cb980840795d169a1"
-  },
-  {
-    "path": "supplement/시연_05_사후관리.png",
-    "bytes": 94635,
-    "sha256": "b037e12245e0eb4c273827a77de10efcc40469295059f1ff3873c9bcf7860306"
-  },
-  {
-    "path": "supplement/시연_실행안내.txt",
-    "bytes": 1149,
-    "sha256": "ccb6d0b49d48719c05ef7d70c8cc3abf9f6b93c3cbe73c0a23e19f861dd00bc6"
-  },
-  {
-    "path": "supplement/테스트_내보내기.csv",
-    "bytes": 2137,
-    "sha256": "a4111052b7e02b78b27f0d63f09adff4b008854f237c85907718fb917ab8a080"
-  },
-  {
-    "path": "supplement/합성샘플.csv",
-    "bytes": 2049,
-    "sha256": "8bea767a1eb3d0964f0b7783cb35287ef8b532af39936a127350adc80afd7b80"
+    "path": "SUBMIT_NOW.md",
+    "bytes": 1351,
+    "sha256": "539e6f90828d4ebc1ee7ddf6d27f675aeaef55333b5d5c09e34c1d7524549f27"
   },
   {
     "path": "official/공고웹원본.html",
@@ -150,6 +85,106 @@
     "sha256": "bc91777a092005b450b6e3b506bff18e4cfe7a7748c4d8284e4b8c2ebef60e46"
   },
   {
+    "path": "submission/공식문항별_붙여넣기.md",
+    "bytes": 15469,
+    "sha256": "90c3cd7ed22909160c97961e63a3bd78d4bb05d151cf9af212871113dd9fa876"
+  },
+  {
+    "path": "submission/반출나침반_기획서_최종.docx",
+    "bytes": 15630,
+    "sha256": "cb3115a8adfeae70409bd0d695eba1d770ea1cca6889371c7d5862056ad2e283"
+  },
+  {
+    "path": "submission/반출나침반_기획서_최종.hwpx",
+    "bytes": 17745,
+    "sha256": "9c5b76b17def193f32bebfbb875aa2cca369ac3bfd161cdb6b0abcb5d2d26f22"
+  },
+  {
+    "path": "submission/반출나침반_기획서_최종.pdf",
+    "bytes": 304363,
+    "sha256": "30052f7ddaa68f1e25457c2d5f2f88a3fc789dd027dca1898670b3add2f9f561"
+  },
+  {
+    "path": "submission/이재호_해운항만물류_AX공모전_서명전.docx",
+    "bytes": 22797,
+    "sha256": "907f50a101d605826c42256089625f0cebe57d41360d67b45ada2f93f5bef348"
+  },
+  {
+    "path": "submission/이재호_해운항만물류_AX공모전_서명전.hwpx",
+    "bytes": 23443,
+    "sha256": "bb03a2b4296b314d9cf4dc79f1bb66cf7614444cbf67f6e6f9a9737e4d15f73f"
+  },
+  {
+    "path": "submission/이재호_해운항만물류_AX공모전_서명전.pdf",
+    "bytes": 579932,
+    "sha256": "da1027b627bc336c7ea5c9163165e32df3170d046aca91b1a54a23469f8082ec"
+  },
+  {
+    "path": "submission/한글파일_안내.txt",
+    "bytes": 943,
+    "sha256": "34c201c2d0504fd1e107fbfbfa4431e419eb432d86b46d74dedd7d237ec6a700"
+  },
+  {
+    "path": "supplement/PoC_검증증빙.pdf",
+    "bytes": 400266,
+    "sha256": "8818f7c8c5858420622879eaa676f820fde4291e0624f69cf1ea5497da1cc57a"
+  },
+  {
+    "path": "supplement/test_demo.cjs",
+    "bytes": 8582,
+    "sha256": "657a6e2904ea6db23499dbcf8e927b9258815e931bc5c0384850445c8d33c62a"
+  },
+  {
+    "path": "supplement/test_results.json",
+    "bytes": 2490,
+    "sha256": "435d51340df84d1438273dbed536364269afb56432eb4ee926cf730751258ae0"
+  },
+  {
+    "path": "supplement/반출나침반_시연.html",
+    "bytes": 24718,
+    "sha256": "e1a5a52a6fbea4d941c146d05f8263fb09e7852e738f621e32a923bb0b85a7a1"
+  },
+  {
+    "path": "supplement/시연_01_기본.png",
+    "bytes": 300673,
+    "sha256": "6539a2710a3e5924c365dd0443daa12b8e7e7c2daff67b7ee0d876f4f2fac728"
+  },
+  {
+    "path": "supplement/시연_02_승인.png",
+    "bytes": 306902,
+    "sha256": "e0eafc75c35fd3ac99fd34e802a5a491cfc0d31b62ea660bb68ad3745c241117"
+  },
+  {
+    "path": "supplement/시연_03_지연.png",
+    "bytes": 315875,
+    "sha256": "cb6712b8977a477b58341cfcc8091aff6134b810944b39647af38e8105c1d84e"
+  },
+  {
+    "path": "supplement/시연_04_대시보드.png",
+    "bytes": 248712,
+    "sha256": "0bcbfa35d9d79e9d0c506baeba2a93591ef7afdf1306406cb980840795d169a1"
+  },
+  {
+    "path": "supplement/시연_05_사후관리.png",
+    "bytes": 94635,
+    "sha256": "b037e12245e0eb4c273827a77de10efcc40469295059f1ff3873c9bcf7860306"
+  },
+  {
+    "path": "supplement/시연_실행안내.txt",
+    "bytes": 1149,
+    "sha256": "ccb6d0b49d48719c05ef7d70c8cc3abf9f6b93c3cbe73c0a23e19f861dd00bc6"
+  },
+  {
+    "path": "supplement/테스트_내보내기.csv",
+    "bytes": 2137,
+    "sha256": "a4111052b7e02b78b27f0d63f09adff4b008854f237c85907718fb917ab8a080"
+  },
+  {
+    "path": "supplement/합성샘플.csv",
+    "bytes": 2049,
+    "sha256": "8bea767a1eb3d0964f0b7783cb35287ef8b532af39936a127350adc80afd7b80"
+  },
+  {
     "path": "upload_서명후교체/PoC_검증증빙.pdf",
     "bytes": 400266,
     "sha256": "8818f7c8c5858420622879eaa676f820fde4291e0624f69cf1ea5497da1cc57a"
@@ -173,5 +208,15 @@
     "path": "upload_서명후교체/이재호_해운항만물류_AX공모전_서명전.pdf",
     "bytes": 579932,
     "sha256": "da1027b627bc336c7ea5c9163165e32df3170d046aca91b1a54a23469f8082ec"
+  },
+  {
+    "path": "공식요건_체크리스트.md",
+    "bytes": 1763,
+    "sha256": "25b6b4c85a01e0393b2aaf0d1151e0f796430cceb7d4c2ed0375191e3e1ca955"
+  },
+  {
+    "path": "제출_게시글.txt",
+    "bytes": 934,
+    "sha256": "4397921e34efab57eb8fd8cf894c57fe812589af7917cbccebcec8806329b26c"
   }
 ]
