@@ -1,0 +1,115 @@
+{
+  "time": "2026-10-30T04:32:04.915Z",
+  "browser": "156.0.8078.74",
+  "results": [
+    {
+      "name": "기본 8건 / 미확인3 / 위험2 / 부분합58만원",
+      "result": "PASS"
+    },
+    {
+      "name": "예약 결측은 산정 불가 및 승인 차단",
+      "result": "PASS"
+    },
+    {
+      "name": "확인된 2일 초과 40만원",
+      "result": "PASS"
+    },
+    {
+      "name": "LFD 당일 0원 / 다음날 10만원",
+      "result": "PASS"
+    },
+    {
+      "name": "반출 완료는 추가지연 제외",
+      "result": "PASS"
+    },
+    {
+      "name": "LFD 결측은 확인 필요",
+      "result": "PASS"
+    },
+    {
+      "name": "잘못된 날짜 거부",
+      "result": "PASS"
+    },
+    {
+      "name": "음수 요율·미지원 규칙은 산정 불가",
+      "result": "PASS"
+    },
+    {
+      "name": "과거 미완료 일정 갱신 요구",
+      "result": "PASS"
+    },
+    {
+      "name": "CSV 수식 방어 및 따옴표 이스케이프",
+      "result": "PASS"
+    },
+    {
+      "name": "예약 보완·승인·업무완료 UI",
+      "result": "PASS"
+    },
+    {
+      "name": "입력 변경 후 재승인 필요",
+      "result": "PASS"
+    },
+    {
+      "name": "업무완료도 노출 유지",
+      "result": "PASS"
+    },
+    {
+      "name": "실제 반출 확인 및 정산",
+      "result": "PASS"
+    },
+    {
+      "name": "리로드 저장 복원",
+      "result": "PASS"
+    },
+    {
+      "name": "DOM 입력은 코드 대신 텍스트",
+      "result": "PASS"
+    },
+    {
+      "name": "JSON 복원시 승인 무효화",
+      "result": "PASS"
+    },
+    {
+      "name": "손상 JSON 검증은 원상태 유지",
+      "result": "PASS"
+    },
+    {
+      "name": "CSV 다운로드 실제 확인",
+      "result": "PASS"
+    },
+    {
+      "name": "영업일 주말 및 지정휴일 제외",
+      "result": "PASS"
+    },
+    {
+      "name": "구간요율 3일 기본+2일 가산",
+      "result": "PASS"
+    },
+    {
+      "name": "CSV 내보내기 및 재입력 일치",
+      "result": "PASS"
+    },
+    {
+      "name": "CSV 오류 입력은 원상태 보존",
+      "result": "PASS"
+    },
+    {
+      "name": "지연 가정 변경 재검토",
+      "result": "PASS"
+    },
+    {
+      "name": "CSV 파일 입력 UI",
+      "result": "PASS"
+    },
+    {
+      "name": "JSON 파일 복원 UI",
+      "result": "PASS"
+    },
+    {
+      "name": "브라우저 JS 오류 없음",
+      "result": "PASS"
+    }
+  ],
+  "errors": []
+}
